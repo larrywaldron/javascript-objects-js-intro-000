@@ -1,4 +1,5 @@
-var playlist ={`Nas`:`Hate me now`,
+var playlist ={
+                `Nas`:`Hate me now`,
                 Jay Z:`99 Problems` }
 
 function updatePlaylist( playlist, artist, song){
