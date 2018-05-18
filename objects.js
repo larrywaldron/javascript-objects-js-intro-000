@@ -1,6 +1,6 @@
 var playlist = {
     Nas: 'Hate me now',
-    JayZ : '99 Problems'
+    JayZ: '99 Problems'
   };
 
 function updatePlaylist( playlist, artistName, song){
