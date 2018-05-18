@@ -1,6 +1,7 @@
 var playlist = {
-    `Nas`: `Hate me now`,
-    Jay Z: `99 Problems` }
+    'Nas': 'Hate me now',
+    Jay Z: '99 Problems'
+   }
 
 function updatePlaylist( playlist, artist, song){
   playlist[artist] = song
